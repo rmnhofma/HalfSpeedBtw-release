@@ -2,7 +2,7 @@
 
 **A tempo-synced half-speed loop effect for Linux, with zero added latency.**
 
-Version 1.1.4. To install it, see the [README](README.md).
+Version 1.1.5. To install it, see the [README](README.md).
 
 ## Getting started
 

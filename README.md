@@ -26,14 +26,14 @@ It runs natively on Linux, with no network access and no telemetry.
 
 ## Install
 
-Download the latest version from the [Releases page](https://github.com/PluginsBTW/HalfSpeedBtw-release/releases),
+Download the latest version from the [Releases page](https://github.com/rmnhofma/HalfSpeedBtw-release/releases),
 or with these commands:
 
 ```bash
-curl -LO https://github.com/PluginsBTW/HalfSpeedBtw-release/releases/download/v1.1.4/HalfSpeedBtw-1.1.4-linux-x86_64.tar.gz
-curl -LO https://github.com/PluginsBTW/HalfSpeedBtw-release/releases/download/v1.1.4/HalfSpeedBtw-1.1.4-linux-x86_64.tar.gz.sha256
-sha256sum -c HalfSpeedBtw-1.1.4-linux-x86_64.tar.gz.sha256 && tar xzf HalfSpeedBtw-1.1.4-linux-x86_64.tar.gz
-cd HalfSpeedBtw-1.1.4-linux-x86_64
+curl -LO https://github.com/rmnhofma/HalfSpeedBtw-release/releases/download/v1.1.5/HalfSpeedBtw-1.1.5-linux-x86_64.tar.gz
+curl -LO https://github.com/rmnhofma/HalfSpeedBtw-release/releases/download/v1.1.5/HalfSpeedBtw-1.1.5-linux-x86_64.tar.gz.sha256
+sha256sum -c HalfSpeedBtw-1.1.5-linux-x86_64.tar.gz.sha256 && tar xzf HalfSpeedBtw-1.1.5-linux-x86_64.tar.gz
+cd HalfSpeedBtw-1.1.5-linux-x86_64
 ```
 
 Install for your user:
