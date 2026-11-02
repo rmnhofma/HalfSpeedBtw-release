@@ -30,10 +30,10 @@ Download the latest version from the [Releases page](https://github.com/rmnhofma
 or with these commands:
 
 ```bash
-curl -LO https://github.com/rmnhofma/HalfSpeedBtw-release/releases/download/v1.1.5/HalfSpeedBtw-1.1.5-linux-x86_64.tar.gz
-curl -LO https://github.com/rmnhofma/HalfSpeedBtw-release/releases/download/v1.1.5/HalfSpeedBtw-1.1.5-linux-x86_64.tar.gz.sha256
-sha256sum -c HalfSpeedBtw-1.1.5-linux-x86_64.tar.gz.sha256 && tar xzf HalfSpeedBtw-1.1.5-linux-x86_64.tar.gz
-cd HalfSpeedBtw-1.1.5-linux-x86_64
+curl -LO https://github.com/rmnhofma/HalfSpeedBtw-release/releases/download/v1.1.6/HalfSpeedBtw-1.1.6-linux-x86_64.tar.gz
+curl -LO https://github.com/rmnhofma/HalfSpeedBtw-release/releases/download/v1.1.6/HalfSpeedBtw-1.1.6-linux-x86_64.tar.gz.sha256
+sha256sum -c HalfSpeedBtw-1.1.6-linux-x86_64.tar.gz.sha256 && tar xzf HalfSpeedBtw-1.1.6-linux-x86_64.tar.gz
+cd HalfSpeedBtw-1.1.6-linux-x86_64
 ```
 
 Install for your user:

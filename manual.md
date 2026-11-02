@@ -2,7 +2,7 @@
 
 **A tempo-synced half-speed loop effect for Linux, with zero added latency.**
 
-Version 1.1.5. To install it, see the [README](README.md).
+Version 1.1.6. To install it, see the [README](README.md).
 
 ## Getting started
 
@@ -29,7 +29,7 @@ Put HalfSpeedBtw on a drum track, press play, and you have half-time drums: the 
 reset it. Every control is also a host parameter you can automate.
 
 Double-click a band handle to reset it too. The version is in the bottom-right corner, and clicking
-the logo opens this page.
+the logo opens [the plugin's page](https://rmnhofma.github.io/plugins/halfspeedbtw/).
 
 ## How to use it
 
