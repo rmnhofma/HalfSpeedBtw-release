@@ -1,5 +1,8 @@
 # HalfSpeedBtw manual
 
+> **Discontinued** since 7 Nov 2026: HalfSpeedBtw gets no new releases. v1.1.6, the last one, stays
+> here to download and keeps working.
+
 **A tempo-synced half-speed loop effect for Linux, with zero added latency.**
 
 Version 1.1.6. To install it, see the [README](README.md).
